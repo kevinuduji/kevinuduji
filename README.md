@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block;">Welcome to My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1></summary>
+    <summary><h1 style="display: inline-block;">Welcome 🙂<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1></summary>
   </ul>
 </div>
 
