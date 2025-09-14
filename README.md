@@ -20,7 +20,8 @@
 </p>
 
 ## 🚀 About Me
-[cite_start]I'm Kevin Uduji, a Computer Science student at The University of Texas at Austin graduating in May 2027[cite: 4]. I'm passionate about building impactful software, from full-stack web applications to mobile experiences.
+I'm Kevin Uduji, a Computer Science student @ The University of Texas at Austin.
+I'm passionate about building impactful software, from full-stack web applications to mobile experiences.
 
 - 🌱 I’m currently diving deep into **System Architecture and Product Development**.
 - 👯 I’m looking to collaborate on **innovative mobile or web applications**.
