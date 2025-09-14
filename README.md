@@ -1,5 +1,3 @@
-## Hey there ! 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hafiz1312/hafiz1312/main/Assets/night-sky.gif" width="100%" alt="Banner">
 </p>
