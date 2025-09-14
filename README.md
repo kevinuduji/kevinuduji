@@ -19,8 +19,8 @@
   <img src="https://raw.githubusercontent.com/hafiz1312/hafiz12/main/Assets/rainbow_bar.gif" width="100%" alt="Rainbow Bar">
 </p>
 
-## 🚀 About Me
-I'm Kevin Uduji, a Computer Science student @ The University of Texas at Austin.
+## ⭐️ Kevin Uduji
+Computer Science student @ The University of Texas at Austin.
 I'm passionate about building impactful software, from full-stack web applications to mobile experiences.
 
 - 🌱 I’m currently diving deep into **System Architecture and Product Development**.
@@ -49,21 +49,4 @@ I'm passionate about building impactful software, from full-stack web applicatio
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hafiz1312/hafiz12/main/Assets/rainbow_bar.gif" width="100%" alt="Rainbow Bar">
-</p>
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinuduji&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinuduji&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hafiz1312/hafiz12/main/Assets/rainbow_bar.gif" width="100%" alt="Rainbow Bar">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinuduji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
